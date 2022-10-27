@@ -47,4 +47,4 @@ Set-up of an SDK can be done with the following steps-.<br/.
 <img src="Images/P6.jpeg" alt="drawing" width="400" height="600"/>
 
 ## More
-More details on the project can be found in the documentation present inside the repo. Check out the SRS{Software Requirement Specifications) for more.
+Built with love.
